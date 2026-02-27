@@ -5,19 +5,16 @@
     color: #fff;
 }
 #gameArea {
-    width: 41px; /* Ancho del área de juego */
-    height: 20px; /* Alto del área de juego */
-    border: 20px solid #000000; /* Borde del área de juego */
-    background-color: #000000; /* Color de fondo del área de juego */
+    width: 41px;
+    height: 20px;
+    border: 20px solid #000000; 
+    background-color: #000000;
 }
 #pouce {
     height: 20px;
     width: 41px;
 }
 body {
-    /* display: flex;
-    justify-content: center;
-    align-items: center; */
     height: 100vh;
     margin: 0;
     font-family: Arial, sans-serif;
