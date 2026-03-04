@@ -2,7 +2,7 @@
     text-align: center;
     margin-top: -880px;
     font-size: 25px;
-    color: #fff;
+    color: #000000;
 }
 #gameArea {
     width: 41px;
@@ -25,4 +25,18 @@ body {
     display: inline-block;
     left: 350px;
     position: relative;
+}
+
+#resetBtn {
+    background-color: #000000;
+    color: #000000;
+    border: none;
+    padding: 8px 12px;
+    font-size: 14px;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+#resetBtn:hover {
+    background-color: #111111;
 }
